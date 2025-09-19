@@ -1,4 +1,4 @@
-📦 Barkod & QR Kod Tanıma ile Stok Takip Uygulaması
+📦 Barkod & QR Kod Tanıma ile Stok Takip Uygulaması/ Stokify
 
 Bu proje, YOLOv8 tabanlı barkod/QR kod tanıma modeli ile stok takibi yapmayı sağlar. Telefon kamerası veya bilgisayar kamerası üzerinden barkod/QR kod okutulduğunda, stok miktarı web arayüzünde otomatik artar ve son güncelleme tarihi kaydedilir.
 
